@@ -64,11 +64,11 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou trabal
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinsbsb&layout=compact&hide=html" alt="alexandremartinsbsb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandremartinsbsb&show_icons=true" alt="alexandremartinsbsb" /></p>
+## &#x1f4c8; GitHub Statistica
 
-<p align="center">
-<a href="https://linkedin.com/in/alexandre-martinsbsb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexandre-martinsbsb" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8386635" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8386635" height="30" width="30" /></a>
-<a href="https://fb.com/alexandre.martinsdasilva.359" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alexandre.martinsdasilva.359" height="30" width="30" /></a>
-<a href="https://instagram.com/alexandre.martinsbsb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alexandre.martinsbsb" height="30" width="30" /></a>
-</p>
+<a href="https://github.com/alexandremartinsbsb/alexandremartinsbsb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinsbsb&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/alexandremartinsbsb/alexandremartinsbsb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandremartinsbsb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
