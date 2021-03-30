@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou o Alexandre</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou o Alexandre</h1>
 <h3 align="center">Um desenvolvedor JAVA apaixonado pelo ecosistema</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandremartinsbsb" alt="alexandremartinsbsb" /> </p>
@@ -21,6 +21,7 @@
 Estas são algumas das tecnologias e ferramentas com as quais trabalho ou trabalhei:
 
 <p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
