@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandremartinsbsb" alt="alexandremartinsbsb" /> </p>
 
 
-## ⚡ Informações
+## &#x270d; Informações
 
 
 - 🔭 Atualmente estou trabalhando em [TarddisCast](https://play.google.com/store/apps/details?id=com.tarddis.tarddiscastmobile&hl=pt-BR)
@@ -16,7 +16,7 @@
 - 📫 Como me encontrar **alexandre.martinsbsb@gmail.com**
 
 
-## ⚡ Tecnologias
+## 🔧 Tecnologias e Ferramentas
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho ou trabalhei:
 
