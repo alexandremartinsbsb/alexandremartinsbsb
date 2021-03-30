@@ -61,8 +61,8 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho ou trabal
 <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremartinsbsb&layout=compact&hide=html" alt="alexandremartinsbsb" /></p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+</p>
 
 ## &#x1f4c8; GitHub Statistica
 
